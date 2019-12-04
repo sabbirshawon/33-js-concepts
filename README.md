@@ -84,65 +84,65 @@
 
 ## 1. Call Stack
 
-### Articles
+### প্রবন্ধ
 
- * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
- * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
- * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
- * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
- * 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
- * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
- * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
- * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+ * 📜 [জাভাস্ক্রিপ্ট কল স্ট্যাক, ইভেন্ট লুপগুলি বোঝা - গৌরব পান্ডভিয়া](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+ * 📜 [জাভাস্ক্রিপ্ট কল স্ট্যাক বোঝা - চার্লস ফ্রিবর্ন](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+ * 📜 [জাভাস্ক্রিপ্ট: এক্সিকিউশন কনটেক্সট কি? কল স্ট্যাক কি? - ভ্যালেন্টিনো গ্যাগলিয়ার্ডি](https://www.valentinog.com/blog/js-execution-context-call-stack/)
+ * 📜 [জেএস ইভেন্ট লুপ এবং কল স্ট্যাক কী? - জেস টেলফোর্ড](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+ * 📜 [কল স্ট্যাক - এমডিএন](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+ * 📜 [জাভাস্ক্রিপ্টে এক্সিকিউশন কনটেক্সট এবং এক্সিকিউশন স্ট্যাক বোঝা - সুখজিন্দর অরোরা](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+ * 📜 [কীভাবে জাভাস্ক্রিপ্ট কাজ করে: ইঞ্জিন, রানটাইম এবং কল স্ট্যাকের একটি ওভারভিউ - আলেকজান্ডার জ্লাতকভ](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+ * 📜 [জাভাস্ক্রিপ্টে পারফরম্যান্স রেফারেন্স, বিবর্তন, স্কোপস এবং সমাপনের চূড়ান্ত গাইড - টাইলার ম্যাকগিনিস](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
 ### Videos
 
- * 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
- * 🎥 [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
- * 🎥 [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
- * 🎥 [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
- * 🎥 [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
- * 🎥 [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
- * 🎥 [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
- * 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
-  * 🎥 [What the heck is the event loop anyway? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-  * 🎥 [La PILA DE EJECUCIÓN (Call Stack) de JavaScript — La Cocina del Código](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
+ * 🎥 [জাভাস্ক্রিপ্ট: কল স্ট্যাক ব্যাখ্যা করা হয়েছে - কোডিং ব্লকস ভারত](https://www.youtube.com/watch?v=w6QGEiQceOM)
+ * 🎥 [জেএস কল স্ট্যাক ৯ মিনিটে ব্যাখ্যা করা হয়েছে - কোল্ট স্টিল](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+ * 🎥 [জাভাস্ক্রিপ্ট এক্সিকিউশন স্ট্যাক - কোডকেডেমি](https://www.youtube.com/watch?v=jT0USJeNFEA)
+ * 🎥 [কল স্ট্যাক কি? - এরিক ট্রাব](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+ * 🎥 [কল স্ট্যাক - কেভিন ড্রাম](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+ * 🎥 [জাভাস্ক্রিপ্ট এক্সিকিউশন বোঝা - কোডস্মিত](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+ * 🎥 [কল স্ট্যাক এবং ইভেন্ট লুপ - মুভি কম](https://www.youtube.com/watch?v=mk0lu9MKBto)
+ * 🎥 [জাভাস্ক্রিপ্টে এক্সিকিউশন কার্যকরকরণ সম্পর্কিত বিষয়াদি, উত্তোলন, স্কোপস এবং সমাপ্তির চূড়ান্ত গাইড - টেইলর ম্যাকগিনিস](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+  * 🎥 [হ্যাকটি যাইহোক ইভেন্ট লুপটি কী? - ফিলিপ রবার্টস](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  * 🎥 [জাভাস্ক্রিপ্ট এক্সিকিউশন (কল স্ট্যাক) - লা কচিনা ডেল কোদিগ](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যাও](#table-of-contents)**
 
 ---
 
 ## 2. Primitive Types
 
-### Articles
+### প্রবন্ধ
 
- * 📜 [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
- * 📜 [What You Need to Know About JavaScript Number Type — Max Wizard K](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
- * 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
- * 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
- * 📜 [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
- * 📜 [(Not) Everything in JavaScript is an Object — Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
- * 📜 [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
- * 📜 [Diving Deeper in JavaScripts Objects — Arfat Salman](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
- * 📜 [The differences between Object.freeze() vs Const in JavaScript — Bolaji Ayodeji](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
+ * 📜 [কীভাবে জাভাস্ক্রিপ্টে নম্বরগুলি এনকোড করা হয়েছে - ডঃ অ্যাক্সেল রাউশমায়ার](http://2ality.com/2012/04/number-encoding.html)
+ * 📜 [জাভাস্ক্রিপ্ট নম্বর প্রকার সম্পর্কে আপনার যা জানা দরকার - ম্যাক্স উইজার্ড কে](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
+ * 📜 [প্রতিটি জাভাস্ক্রিপ্ট বিকাশকারী ভাসমান পয়েন্ট নম্বর সম্পর্কে কি জানা উচিত - চক্সি](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
+ * 📜 [জাভাস্ক্রিপ্ট পুরষ্কারের গোপনীয় জীবন - অ্যাঙ্গাস ক্রল](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
+ * 📜 [প্রিমিটিভ প্রকার - ফ্ল](https://flow.org/en/docs/types/primitives/)
+ * 📜 [(না) জাভাস্ক্রিপ্টের সমস্ত কিছুই একটি অবজেক্ট - ড্যানিয়েল লি](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
+ * 📜 [জাভাস্ক্রিপ্ট ডেটা ধরণ এবং ডেটা স্ট্রাকচার - এমডিএন](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+ * 📜 [জাভাস্ক্রিপ্টস অবজেক্টে গভীরতর ডাইভিং - আরফাত সালমান](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+ * 📜 [জাভাস্ক্রিপ্টে এর Const বনাম Object.freeze() এর মধ্যে পার্থক্য - বোলাজি আইওডিজি](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
 
-### Videos
+### ভিডিও
 
- * 🎥 [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
- * 🎥 [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
- * 🎥 [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
- * 🎥 [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
- * 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
- * 🎥 [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
- * 🎥 [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=cC65D2q5f8I)
+ * 🎥 [জাভাস্ক্রিপ্ট রেফারেন্স বনাম প্রিমিটিভ প্রকার - একাডেমাইন্ড](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+ * 🎥 [জাভাস্ক্রিপ্ট এর প্রিমিটিভ প্রকার — সাইমন সেজ আইটি](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
+ * 🎥 [জাভাস্ক্রিপ্টে মান প্রকার এবং রেফারেন্সের ধরণ - প্রোগ্রামিং উইথ মোশ](https://www.youtube.com/watch?v=e-_mDyqm2oU)
+ * 🎥 [জাভাস্ক্রিপ্ট প্রিমিটিভ উপাত্তের প্রকার - অ্যাভেলেক্স](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
+ * 🎥 [জাভাস্ক্রিপ্ট নম্বরগুলি সম্পর্কে আপনি কখনই জানতে চাননি - বার্তেক জাজোপকা](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+ * 🎥 [জাভাস্ক্রিপ্টে ভেরিয়েবল কী কী? - জেএস সবার জন্য](https://www.youtube.com/watch?v=B4Bbmei_thw)
+ * 🎥 [জাভাস্ক্রিপ্টে সীমিত ডেটার প্রকার - লা কচিনা ডেল কোদিগ](https://www.youtube.com/watch?v=cC65D2q5f8I)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যাও](#table-of-contents)**
 
 ---
 
 ## 3. Value Types and Reference Types
 
-### Articles
+### প্রবন্ধ
 
  * 📜 [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
  * 📜 [Understand Value and Reference Types in JavaScript — Zsolt Nagy](https://www.zsoltnagy.eu/understand-value-and-reference-types-in-javascript/)
