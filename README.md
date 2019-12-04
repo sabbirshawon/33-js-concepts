@@ -3,23 +3,23 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  ৩৩ টি ধারণা প্রতিটি জাভাস্ক্রিপ্ট বিকাশকারীদের জানা উচিত
   <br><br>
 </h1>
 
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-## Introduction
+## ভূমিকা
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+এই সংগ্রহস্থলটি বিকাশকারীদের জাভাস্ক্রিপ্টে তাদের ধারণাগুলি আয়ত্ত করতে সহায়তা করার উদ্দেশ্যে তৈরি করা হয়েছিল। এটি কোনও প্রয়োজন নয়, তবে ভবিষ্যতের অধ্যয়নের জন্য গাইড। এটি [স্টিফেন কার্টিসের](https://twitter.com/stephenthecurt) লেখা নিবন্ধের ভিত্তিতে তৈরি এবং আপনি এটি [এখানে](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) পড়তে পারেন।
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 গিটহাব দ্বারা অন্যতম একটি হিসাবে বিবেচিত [২০১৮ এর শীর্ষস্থানীয় ওপেন সোর্স প্রকল্প!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## সম্প্রদায়
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+আপনার নিজস্ব সংক্ষিপ্তবৃত্তি বা পর্যালোচনার একটি PR জমা দিতে নির্দ্বিধায় সাবমিট করুন। আপনি যদি রেপোটিকে নিজের মাতৃভাষায় অনুবাদ করতে চান তবে দয়া করে এটি করতে দ্বিধা করবেন না।
 
-All the translations for this repo will be listed below:
+এই রেপোর জন্য সমস্ত অনুবাদ নীচে তালিকাভুক্ত করা হয়েছে:
 
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
@@ -39,10 +39,11 @@ All the translations for this repo will be listed below:
 - [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 - [Sinhala](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
 - [Italian](https://github.com/Donearm/33-js-concepts) - Gianluca Fiore
+- [Bengali](https://github.com/sabbirshawon/33-js-concepts) - Sabbir Shawon
 
 ---
 
-## Table of Contents
+## সুচিপত্র
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
